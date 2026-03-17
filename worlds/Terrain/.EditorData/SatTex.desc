@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "E:/Media/arma/reforger modding/RahmadiReforged/Satmap_For_Real_This_Time/Satmap_For_Real_This_Time.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA None
+}
