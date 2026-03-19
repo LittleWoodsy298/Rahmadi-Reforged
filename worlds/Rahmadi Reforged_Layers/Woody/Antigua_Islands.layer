@@ -73,12 +73,12 @@ $grp SplineShapeEntity {
       }
       {
        coords 10.917 -0.221 -11.333
-       angles 0.252 148.544 -0
+       angles 0.252 148.544 0
        scale 1.031
       }
       {
        coords 11.986 -0.086 -16.37
-       angles 1.49 169.682 -0
+       angles 1.49 169.682 0
        scale 1.154
       }
       {
@@ -88,12 +88,12 @@ $grp SplineShapeEntity {
       }
       {
        coords 14.013 -0.12 -23.723
-       angles -0.879 179.78 -0
+       angles -0.879 179.78 0
        scale 0.875
       }
       {
        coords 12.813 -0.09 -28.061
-       angles 0.476 -156.743 -0
+       angles 0.476 -156.743 0
        scale 0.868
       }
       {
@@ -103,7 +103,7 @@ $grp SplineShapeEntity {
       }
       {
        coords 7.651 -0.165 -38.217
-       angles -0.399 -144.808 -0
+       angles -0.399 -144.808 0
        scale 0.884
       }
       {
@@ -120,7 +120,7 @@ $grp SplineShapeEntity {
       }
       {
        coords 12.271 -0.055 -17.519
-       angles 1.49 169.682 -0
+       angles 1.49 169.682 0
        scale 0.987
       }
       {
@@ -130,7 +130,7 @@ $grp SplineShapeEntity {
       }
       {
        coords 6.934 -0.172 -39.046
-       angles -0.399 -144.808 -0
+       angles -0.399 -144.808 0
        scale 1.098
       }
       {
@@ -193,7 +193,7 @@ $grp SplineShapeEntity {
      $grp Tree : "{A67083B8FFC88ED4}PrefabLibrary/DefaultLibrary/Vegetation/Plants/p_fucus_fesiculosus_02.et" {
       {
        coords -0.63 -0.038 0.826
-       angles 0.253 120.027 -0
+       angles 0.253 120.027 0
        scale 0.815
       }
       {
@@ -230,7 +230,7 @@ $grp SplineShapeEntity {
      $grp Tree : "{CA24B758430C01FA}PrefabLibrary/DefaultLibrary/Vegetation/Plants/p_fucus_fesiculosus_01.et" {
       {
        coords -3.548 -0.045 2.36
-       angles 0.253 120.027 -0
+       angles 0.253 120.027 0
        scale 0.974
       }
       {
@@ -255,7 +255,7 @@ $grp SplineShapeEntity {
       }
       {
        coords 25.732 -0.148 -16.826
-       angles -0.185 132.909 -0
+       angles -0.185 132.909 0
        scale 1.042
       }
      }
@@ -313,7 +313,7 @@ $grp SplineShapeEntity {
       }
       {
        coords -35.556 -0.159 -14.249
-       angles 0.143 -101.431 -0
+       angles 0.143 -101.431 0
        scale 1.194
       }
       {
@@ -323,7 +323,7 @@ $grp SplineShapeEntity {
       }
       {
        coords -45.165 -0.171 -16.265
-       angles -0.787 -99.967 -0
+       angles -0.787 -99.967 0
        scale 1.109
       }
       {
@@ -365,7 +365,7 @@ $grp SplineShapeEntity {
       }
       {
        coords -17.688 -0.181 -7.946
-       angles 1.058 -110.31 -0
+       angles 1.058 -110.31 0
        scale 1.079
       }
       {
@@ -454,12 +454,12 @@ $grp SplineShapeEntity {
       }
       {
        coords -14.515 -0.39 -2.96
-       angles -0.816 -93.731 -0
+       angles -0.816 -93.731 0
        scale 0.847
       }
       {
        coords -19.72 -0.317 -2.489
-       angles 0.323 -85.575 -0
+       angles 0.323 -85.575 0
        scale 0.813
       }
      }
@@ -481,7 +481,7 @@ $grp SplineShapeEntity {
       }
       {
        coords -21.581 -0.335 -2.565
-       angles 0.323 -85.575 -0
+       angles 0.323 -85.575 0
        scale 1.116
       }
      }
@@ -577,23 +577,23 @@ $grp SplineShapeEntity {
     {
      Tree : "{A67083B8FFC88ED4}PrefabLibrary/DefaultLibrary/Vegetation/Plants/p_fucus_fesiculosus_02.et" {
       coords 4.62 -0.053 1.963
-      angles -1.129 84.525 -0
+      angles -1.129 84.525 0
       scale 1.196
      }
      $grp Tree : "{CA24B758430C01FA}PrefabLibrary/DefaultLibrary/Vegetation/Plants/p_fucus_fesiculosus_01.et" {
       {
        coords -3.6 -0.118 1.547
-       angles 1.785 95.367 -0
+       angles 1.785 95.367 0
        scale 0.867
       }
       {
        coords -1.394 -0.049 1.193
-       angles 1.785 95.367 -0
+       angles 1.785 95.367 0
        scale 1.001
       }
       {
        coords 0.758 0.008 1.555
-       angles 0.222 85.443 -0
+       angles 0.222 85.443 0
        scale 1.036
       }
      }
@@ -718,6 +718,15 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{060B63962592D11A}PrefabLibrary/Ca
   angles 0 -175.721 0
   scale 1.123
  }
+ {
+  coords 795.581 7.675 2882.722
+  scale 1.233
+ }
+ {
+  coords 794.708 10.786 2856.145
+  angles 0 -22.998 0
+  scale 1.411
+ }
 }
 StaticModelEntity : "{08F77F0028C47401}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_dirt_wave.et" {
  coords 903.276 2.952 2809.296
@@ -736,12 +745,17 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{102F94404E45E8D6}PrefabLibrary/De
  }
  {
   coords 930.53 -0.281 2846.024
-  angles 1.108 -87.017 4.643
+  angles 1.108 -87.017 5.862
   scale 1.027
  }
  {
   coords 942.652 -0.235 2847.834
   angles 4.226 15.472 -3.128
+  scale 1.027
+ }
+ {
+  coords 951.501 -0.251 2818.198
+  angles -0.828 39.965 5.179
   scale 1.027
  }
 }
@@ -784,6 +798,23 @@ $grp SCR_DestructibleBuildingEntity : "{21F3666D8D500F7A}PrefabLibrary/DefaultLi
  {
   coords 1621.849 1.147 2543.326
   angles 0 126.563 0
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{236D8A187B6D6656}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteStone_01_V2.et" {
+ {
+  coords 770.935 -0.349 2815.484
+  angles 0 33.356 0
+  scale 1.183
+ }
+ {
+  coords 760.913 -0.764 2829.353
+  angles 0 145.568 0
+  scale 1.183
+ }
+ {
+  coords 759.891 -0.324 2827.663
+  angles 0 -101.011 0
+  scale 1.183
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{2744DB5B79E2F462}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_03/GraniteCliff_03.et" {
@@ -842,6 +873,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{2744DB5B79E2F462}PrefabLibrary/De
  {
   coords 837.692 -14.563 2805.451
   angles 0 159.482 0.786
+ }
+ {
+  coords 765.799 -7.307 2830.054
+  angles 0 -70.94 2.147
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{2A841F5C64F4BCE2}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_BeachCluster_02/Granite_BeachCluster_02.et" {
@@ -989,6 +1024,30 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3B3F46AE50FE582D}PrefabLibrary/De
   angles 3.71 23.459 -4.53
   scale 0.879
  }
+ {
+  coords 929.071 -0.332 2846.288
+  angles -5.506 133.709 11.024
+  scale 0.879
+ }
+ {
+  coords 960.681 0.329 2839.441
+  angles 0.576 -122.809 1.044
+  scale 0.879
+ }
+ {
+  coords 960.01 0.142 2827.517
+  angles -1.613 -7.155 0.447
+  scale 0.879
+ }
+ {
+  coords 835.106 9.395 2852.166
+  scale 1.139
+ }
+ {
+  coords 843.518 9.562 2854.516
+  angles 0 166.5 0
+  scale 1.139
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_03_V2.et" {
  {
@@ -1010,6 +1069,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/Ca
   coords 854.236 -3.401 2806.123
   angles 0 169.728 0
   scale 1.27
+ }
+ {
+  coords 777.929 7.583 2837.767
+  angles 0 1.92 0
+  scale 0.886
+ }
+ {
+  coords 801.893 4.556 2844.272
+  angles 0 -147.223 0
+  scale 1.343
  }
 }
 SCR_DestructibleBuildingEntity : "{4B94AFADB16D066A}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LightBeacon_01/LightBeacon_01_V2_red.et" {
@@ -1105,9 +1174,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{576B724EEC3AD703}PrefabLibrary/De
   angles -15.007 -153.211 -3.948
   scale 1.004
  }
-}
-SCR_DestructibleBuildingEntity : "{5E26AA6573156663}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LightBeacon_01/LightBeacon_01_V2_green.et" {
- coords 2882.778 0.001 2983.655
+ {
+  coords 794.107 11.189 2861.96
+  angles 5.085 56.091 0
+  scale 0.97
+ }
+ {
+  coords 808.561 8.691 2843.672
+  angles 0 -111.739 0
+  scale 1.105
+ }
 }
 $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_turnin.et" {
  {
@@ -1256,6 +1332,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{6A5F577699565E34}PrefabLibrary/Ca
   coords 924.774 -0.049 2860.847
   angles -3.98 121.869 -0.369
   scale 1.036
+ }
+ {
+  coords 952.369 0.598 2824.035
+  angles -9.427 121.801 0.782
+  scale 1.036
+ }
+ {
+  coords 816.795 9.16 2872.922
+  angles -2.913 57.124 -7.399
+  scale 1.166
  }
 }
 GenericEntity : "{724FECB00EA5B033}PrefabLibrary/CainLibrary/Props/Naval/ShipWreckWooden_01_sunk.et" {
@@ -1561,6 +1647,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{AE8CA342C9C3EC27}PrefabLibrary/De
   coords 885.739 -1.862 2886.683
   angles 62.441 -173.036 78.264
  }
+ {
+  coords 774.653 -7.45 2865.041
+  angles 0 -42.494 0
+ }
 }
 $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_straight.et" {
  {
@@ -1688,8 +1778,8 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   angles -12.43 58.117 -5.998
  }
  {
-  coords 932.472 0.36 2849.256
-  angles -10.324 -167.425 -12.247
+  coords 932.442 0.227 2849.288
+  angles -10.324 -167.425 -12.493
  }
  {
   coords 922.509 -0.222 2854.078
@@ -1747,6 +1837,22 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   coords 904.594 4.419 2818.215
   angles -26.126 -155.632 -5.77
  }
+ {
+  coords 963.572 0.344 2838.163
+  angles 3.803 -101.576 -1.183
+ }
+ {
+  coords 954.024 1.006 2838.35
+  angles -3.941 103.906 -0.567
+ }
+ {
+  coords 956.097 0.161 2827.272
+  angles 1.752 36.135 -3.541
+ }
+ {
+  coords 963.292 0.576 2833.573
+  angles -3.102 -118.454 2.447
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_02/GraniteCliff_02.et" {
  {
@@ -1788,6 +1894,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/De
  {
   coords 807.176 -15.678 2787.275
   angles 0 75.192 0
+ }
+ {
+  coords 781.514 -8.551 2872.308
+  angles 0 -28.001 0
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{C9E08FDCA029D5B7}PrefabLibrary/DefaultLibrary/Infrastructure/Bridges/ConcreteBridge_01_Pillar_narrow.et" {
@@ -1958,6 +2068,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/De
   coords 938.144 -0.306 2829.842
   angles -11.79 -176.586 -0.698
   scale 1.033
+ }
+ {
+  coords 960.51 -1.276 2835.541
+  angles -5.354 -95.064 4.696
+  scale 0.831
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_01/GraniteCliff_01_Fucus.et" {
@@ -2282,17 +2397,65 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{F12D0A7F42FEE1E6}PrefabLibrary/Ca
   angles 0 13.062 0
   scale 1.192
  }
+ {
+  coords 771.227 8.796 2815.448
+  angles 0 165.231 0
+  scale 0.834
+ }
+ {
+  coords 789.073 5.928 2832.892
+  angles 0 -125.543 0
+  scale 1.041
+ }
+ {
+  coords 783.713 6.755 2854.016
+  angles 0 27.185 0
+  scale 1.124
+ }
 }
-SCR_IndestructibleEnvironmentalEntity : "{F4DF7DEDAB805624}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
- coords 3679.356 -3.258 2982.946
- angles 0 -127.263 0
+$grp SCR_IndestructibleEnvironmentalEntity : "{F4DF7DEDAB805624}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
+ {
+  coords 3679.356 -3.258 2982.946
+  angles 0 -127.263 0
+ }
+ {
+  coords 787.778 6.993 2810.046
+  angles 0 71.79 0
+ }
 }
 GenericEntity : "{F857D65788E3BA3A}PrefabLibrary/DefaultLibrary/Props/Naval/BoatWreck_01.et" {
  coords 1628.169 -0.201 2534.473
  angles -8.755 -156.262 18.745
 }
-SCR_IndestructibleEnvironmentalEntity : "{FB885A32F4EE1261}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_02_V2.et" {
- coords 1653.883 2.588 2544.151
- angles 0 218.722 0
- scale 1.05
+$grp SCR_IndestructibleEnvironmentalEntity : "{FB885A32F4EE1261}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_02_V2.et" {
+ {
+  coords 1653.883 2.588 2544.151
+  angles 0 218.722 0
+  scale 1.05
+ }
+ {
+  coords 765.434 5.288 2820.461
+  angles 0 -152.482 0
+  scale 1.374
+ }
+ {
+  coords 781.049 1.902 2812.443
+  angles 0 -38.943 0
+  scale 1.374
+ }
+ {
+  coords 773.009 4.299 2857.003
+  angles 0 136.013 0
+  scale 1.374
+ }
+ {
+  coords 790.378 7.104 2850.305
+  angles 0 9.067 0
+  scale 0.838
+ }
+ {
+  coords 789.039 4.841 2877.702
+  angles 0 -75.045 0
+  scale 0.898
+ }
 }
