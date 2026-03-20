@@ -697,6 +697,23 @@ $grp SplineShapeEntity {
   }
  }
 }
+SCR_DestructibleBuildingEntity : "{0027D6C6A3BD5D77}Prefabs/Structures/Infrastructure/Naval/Lighthouse/Lighthouse_04/Lighthouse_04.et" {
+ coords 791.574 0.084 2856.575
+ angles 0 -30 0
+ {
+  $grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
+   {
+    coords 0.929 0.885 0.665
+   }
+   {
+    coords -0.935 0.885 0.666
+   }
+  }
+  StaticModelEntity : "{F5589597452FE918}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_Narrow.et" {
+   coords -0.018 0.312 1.449
+  }
+ }
+}
 $grp SCR_IndestructibleEnvironmentalEntity : "{060B63962592D11A}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteSurfaceStone_05.et" {
  {
   coords 1607.739 -3.233 2548.339
@@ -786,6 +803,22 @@ StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/DefaultLibrary/Terrain/Eros
 GenericEntity : "{15CB11EFB66A02F6}PrefabLibrary/DefaultLibrary/Props/Naval/LifeBuoy_01_set.et" {
  coords 1612.937 1.353 2525.339
  angles 0 -52.976 0
+}
+$grp GenericEntity : "{15FCFED968B7854F}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_C.et" {
+ {
+  coords 780.409 13.656 2827.492
+ }
+ {
+  coords 780.416 13.656 2823.634
+  angles 0 180 0
+ }
+ {
+  coords 776.549 13.656 2823.634
+  angles 0 180 0
+ }
+ {
+  coords 776.542 13.656 2827.492
+ }
 }
 SCR_IndestructibleEnvironmentalEntity : "{187DF45E4944307D}PrefabLibrary/DefaultLibrary/Infrastructure/Naval/BreakwaterStone_01_stack_wall_half.et" {
  coords 1620.286 -2.867 2533.431
@@ -889,6 +922,14 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{2744DB5B79E2F462}PrefabLibrary/De
   angles 0 -70.94 2.147
  }
 }
+$grp GenericEntity : "{28C8DBE11DDB0C78}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_D.et" {
+ {
+  coords 780.413 13.656 2825.562
+ }
+ {
+  coords 776.546 13.656 2825.562
+ }
+}
 $grp SCR_IndestructibleEnvironmentalEntity : "{2A841F5C64F4BCE2}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_BeachCluster_02/Granite_BeachCluster_02.et" {
  {
   coords 912.655 -0.106 2835.421
@@ -934,6 +975,72 @@ $grp StaticModelEntity : "{32300543F3DBA4C9}PrefabLibrary/DefaultLibrary/Infrast
  {
   coords 1626.997 1.737 2543.246
   angles 0 37.1 0
+  scale 1.5
+ }
+ {
+  coords 781.032 13.493 2831.146
+  angles 0 -90 0
+ }
+ {
+  coords 777.255 13.493 2831.146
+  angles 0 -90 0
+ }
+ {
+  coords 774.919 13.472 2831.146
+  angles 0 -90 0
+ }
+ {
+  coords 772.887 13.508 2829.416
+ }
+ {
+  coords 783.047 13.493 2829.415
+ }
+ {
+  coords 783.047 13.493 2825.681
+ }
+ {
+  coords 781.032 13.493 2821.938
+  angles 0 -90 0
+ }
+ {
+  coords 777.255 13.493 2821.938
+  angles 0 -90 0
+ }
+ {
+  coords 774.919 13.472 2821.938
+  angles 0 -90 0
+ }
+ {
+  coords 783.265 13.26 2825.681
+  angles 0 0 -44
+ }
+ {
+  coords 783.265 13.26 2829.415
+  angles 0 0 -44
+ }
+ {
+  coords 781.301 13.28 2831.356
+  angles 0 -90 -44
+ }
+ {
+  coords 777.524 13.28 2831.356
+  angles 0 -90 -44
+ }
+ {
+  coords 774.624 13.265 2831.37
+  angles 0 -90 -44
+ }
+ {
+  coords 781.032 13.304 2821.678
+  angles 0 -90 44
+ }
+ {
+  coords 777.255 13.304 2821.678
+  angles 0 -90 44
+ }
+ {
+  coords 781.467 11.962 2829.562
+  angles 21.004 45 0
   scale 1.5
  }
 }
@@ -1204,6 +1311,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{576B724EEC3AD703}PrefabLibrary/De
   angles 0 -111.739 0
   scale 1.105
  }
+}
+SCR_DestructibleBuildingEntity : "{5E41F4FD9FAE7C99}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteRetainingWall_01_4m.et" {
+ coords 781.88 8.991 2829.974
+ angles 0 -45 36.882
+ scale 1.06
 }
 $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_turnin.et" {
  {
@@ -1523,6 +1635,24 @@ SCR_IndestructibleEnvironmentalEntity : "{907BCF8E0D48357D}PrefabLibrary/Default
  angles -4.526 176.431 -0.525
  scale 0.978
 }
+$grp GenericEntity : "{954774A4B062F1FC}PrefabLibrary/DefaultLibrary/Props/Airport/RunwayLightPortable_01/RunwayLightPortable_01_red.et" {
+ {
+  coords 782.541 13.656 2830.54
+  angles 0 160.071 0
+ }
+ {
+  coords 774.444 13.607 2830.518
+  angles -0.168 -114.186 3.993
+ }
+ {
+  coords 774.573 13.643 2822.501
+  angles 1.651 112.733 0.692
+ }
+ {
+  coords 782.218 13.641 2822.359
+  angles 0 31.917 0
+ }
+}
 $grp StaticModelEntity : "{9AF0242036F3D3D3}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_dirt_straight.et" {
  {
   coords 896.588 3.489 2803.3
@@ -1535,6 +1665,14 @@ $grp StaticModelEntity : "{9AF0242036F3D3D3}PrefabLibrary/DefaultLibrary/Terrain
  {
   coords 879.796 3.502 2804.21
   angles 0.16 19.128 -1.257
+ }
+}
+$grp GenericEntity : "{9C3486C0D8969D0A}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_A.et" {
+ {
+  coords 780.414 13.657 2829.427
+ }
+ {
+  coords 776.547 13.657 2829.427
  }
 }
 GenericEntity : "{A10A168FDA3FA657}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_stack.et" {
@@ -1893,6 +2031,69 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
  {
   coords 901.917 4.242 2871.448
   angles -14.582 -35.16 9.974
+ }
+ {
+  coords 890.549 7.687 2856.769
+  angles -15.311 -88.784 1.744
+ }
+ {
+  coords 892.251 7.082 2863.439
+  angles -14.373 -75.278 6.124
+ }
+ {
+  coords 890.764 7.688 2832.212
+  angles -15.911 44.185 6.084
+ }
+ {
+  coords 886.85 8.118 2845.155
+  angles -12.616 -64.524 5.661
+ }
+ {
+  coords 890.521 7.554 2830.886
+  angles -23.096 -121.312 -11.458
+ }
+ {
+  coords 774.119 12.845 2825.21
+  angles -9.884 -92.532 2.843
+ }
+ {
+  coords 771.547 12.921 2822.46
+  angles -16.019 -178.844 2.866
+ }
+ {
+  coords 778.251 11.96 2817.83
+  angles -15.298 -26.954 3.678
+  scale 0.95
+ }
+ {
+  coords 782.617 9.174 2805.66
+  angles -22.044 -36.965 -18.901
+  scale 0.9
+ }
+ {
+  coords 776.913 11.621 2815.554
+  angles -16.149 -67.879 -19.149
+  scale 0.69
+ }
+ {
+  coords 777.493 11.151 2814.641
+  angles -11.997 96.685 19.306
+  scale 0.69
+ }
+ {
+  coords 783.001 11.535 2814.845
+  angles -14.719 -103.413 -10.02
+  scale 0.69
+ }
+}
+$grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
+ {
+  coords 782.942 13.507 2821.924
+  angles 0 90 0
+ }
+ {
+  coords 782.942 13.507 2823.763
+  angles 0 90 0
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_02/GraniteCliff_02.et" {
@@ -2463,6 +2664,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{F4DF7DEDAB805624}PrefabLibrary/De
   coords 787.778 6.993 2810.046
   angles 0 71.79 0
  }
+}
+StaticModelEntity : "{F5589597452FE918}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_Narrow.et" {
+ coords 783.011 13.64 2822.932
+ angles 0 90 0
 }
 GenericEntity : "{F857D65788E3BA3A}PrefabLibrary/DefaultLibrary/Props/Naval/BoatWreck_01.et" {
  coords 1628.169 -0.201 2534.473
