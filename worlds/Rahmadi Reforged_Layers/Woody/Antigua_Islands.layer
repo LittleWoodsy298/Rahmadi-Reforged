@@ -696,6 +696,1566 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 920.166 6.526 2821.495
+  Points {
+   ShapePoint "{68EF2591705F61E6}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591705F6A32}" {
+    Position 5 -0.366 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259171C7E9D9}" {
+    Position 23.155 -3.333 3.886
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591721B5DA6}" {
+    Position 26.577 -3.526 8.28
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591727514A5}" {
+    Position 20.629 -3.655 10.582
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25917334F3ED}" {
+    Position 13.504 -1.983 8.8
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259173E253B7}" {
+    Position 7.623 -0.632 6.983
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259174709990}" {
+    Position -0.442 0.173 3.708
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25918849B8F5}" {
+    Position -4.217 0.369 3.083
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 4121
+    {
+     Tree : "{2A7C3319DE914965}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_3s.et" {
+      coords 5.865 -0.075 3.018
+      angles 0 -100.012 0
+      scale 0.834
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords 18.807 -2.802 6.834
+       angles 3.792 171.867 -11.224
+       scale 0.835
+      }
+      {
+       coords 2.776 -0.062 4.913
+       angles -4.117 -24.818 3.864
+       scale 0.908
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords 17.655 -2.49 4.807
+       angles 0 -71.402 0
+       scale 0.86
+      }
+      {
+       coords 4.703 -0.174 0.726
+       angles 0 108.911 0
+       scale 0.922
+      }
+      {
+       coords 1.012 0.097 1.594
+       angles 0 -122.776 0
+       scale 0.786
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 960.027 1.346 2827.054
+  Points {
+   ShapePoint "{68EF259185EDAB82}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259185EDB68D}" {
+    Position 2.615 -0.275 0.863
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25918744A631}" {
+    Position 1.379 0.122 6.665
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259187FCA488}" {
+    Position 0.748 -0.015 13.262
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25919866D3B6}" {
+    Position -2.886 0.397 13.775
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591990F4F74}" {
+    Position -2.83 0.63 6.931
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 29623
+    {
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -0.826 0.277 11.228
+       angles 4.885 -55.589 5.488
+       scale 1.003
+      }
+      {
+       coords 0.232 0.118 1.884
+       angles -7.766 103.956 1.731
+       scale 0.992
+      }
+      {
+       coords -2.594 0.6 6.56
+       angles -6.879 74.818 1.861
+       scale 0.941
+      }
+     }
+     Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      coords 1.229 0.145 5.772
+      angles 0 -83.707 0
+      scale 0.924
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 913.404 3.239 2868.62
+  Points {
+   ShapePoint "{68EF2591906D9876}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591906DA4F6}" {
+    Position -7.557 1.152 -1.563
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259191D06BDC}" {
+    Position -7 0.952 1.212
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25919252B16F}" {
+    Position -2.028 -0.098 3.059
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 23228
+    {
+     Tree : "{2A7C3319DE914965}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_3s.et" {
+      coords -1.271 0.17 0.006
+      angles 0 -146.243 0
+      scale 0.764
+     }
+     Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      coords -2.363 0.012 2.357
+      angles 0 -69.963 0
+      scale 0.98
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 943.639 2.511 2838.291
+  Points {
+   ShapePoint "{68EF2591A1B13276}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A1B13E62}" {
+    Position -10.219 0.132 0.023
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A345B4DA}" {
+    Position -18.363 0.23 4.534
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A50B491E}" {
+    Position -31.87 1.727 7.989
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A58B24AF}" {
+    Position -48.214 5.05 15.53
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A628B95B}" {
+    Position -47.46 4.503 24.824
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A6A71CE8}" {
+    Position -44.201 3.729 19.683
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591A75E19C9}" {
+    Position -34.09 1.58 13.159
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591B8290811}" {
+    Position -28.492 0.957 9.037
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591B8BE0B95}" {
+    Position -16.906 0.065 6.257
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591B972CE36}" {
+    Position -11.166 -0.117 4.381
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591BB3E12AC}" {
+    Position -7.785 -0.715 5.31
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591BC8BBE85}" {
+    Position -3.744 -0.381 1.724
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 17871
+    {
+     Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      coords -45.27 4.229 16.209
+      angles 1.073 -160.197 -0.959
+      scale 0.966
+     }
+     Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      coords -16.327 0.072 5.487
+      angles 8.327 -169.108 -5.602
+      scale 0.696
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -7.085 -0.151 3.398
+       angles 0 149.572 0
+       scale 0.904
+      }
+      {
+       coords -22.928 0.414 6.032
+       angles 0 120.073 0
+       scale 0.932
+      }
+      {
+       coords -20.115 0.265 6.359
+       angles 0 -162.46 0
+       scale 0.835
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 909.72 6.508 2831.415
+  Points {
+   ShapePoint "{68EF2591CC4D93DA}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591CC4D9CF3}" {
+    Position -2.507 0.363 -8.676
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591CD88C631}" {
+    Position -7.907 0.822 -3.664
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591CE514361}" {
+    Position -20.181 2.444 5.943
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591CFB1944A}" {
+    Position -17.73 2.108 8.926
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591C00B3284}" {
+    Position -9.197 0.28 8.363
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 27237
+    {
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -8.951 0.561 2.797
+       angles 5.142 -172.645 -11.756
+       scale 0.864
+      }
+      {
+       coords -6.974 0.09 3.498
+       angles -11.904 93.459 -7.689
+       scale 0.696
+      }
+      {
+       coords -6.623 0.34 0.958
+       angles 9.922 -143.304 -1.441
+       scale 0.64
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -3.844 0.609 -3.29
+       angles 0 -153.011 0
+       scale 1.159
+      }
+      {
+       coords -15.326 1.793 5.654
+       angles 0 159.713 0
+       scale 0.755
+      }
+      {
+       coords -13.889 1.509 2.277
+       angles 0 -125.556 0
+       scale 0.767
+      }
+      {
+       coords -12.014 1.156 4.125
+       angles 0 -59.009 0
+       scale 0.914
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 900.735 3.892 2878.392
+  Points {
+   ShapePoint "{68EF2591DF709AEE}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591DF70A60D}" {
+    Position -8.678 -0.087 4.437
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D0AF02E4}" {
+    Position -17.85 1.759 3.962
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D0F815C0}" {
+    Position -24.569 1.607 8.229
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D1C620C2}" {
+    Position -44.788 3.546 9.635
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D2A3A9F1}" {
+    Position -46.666 4.181 7.362
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D37BF54F}" {
+    Position -36.372 4.223 2.097
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D46E293C}" {
+    Position -23.258 4.042 -2.856
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D4E9B6B1}" {
+    Position -13.658 2.827 -1.679
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591D66BE41D}" {
+    Position -3.878 1.852 -3.525
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 27953
+    {
+     $grp Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      {
+       coords -27.321 4.045 -0.634
+       angles 1.252 23.248 -2.77
+       scale 0.644
+      }
+      {
+       coords -34.155 3.703 4.571
+       angles 0.398 -147.848 -1.343
+       scale 0.724
+      }
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -27.907 3.672 1.854
+       angles -8.886 68.338 -7.856
+       scale 0.844
+      }
+      {
+       coords -4.776 1.776 -2.537
+       angles -9.988 85.322 -13.107
+       scale 0.769
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -34.753 3.136 7.378
+       angles 0 70.534 0
+       scale 0.942
+      }
+      {
+       coords -37.22 2.999 8.827
+       angles 0 -13.448 0
+       scale 0.911
+      }
+      {
+       coords -10.183 1.037 2.235
+       angles 0 177.072 0
+       scale 0.764
+      }
+      {
+       coords -8.391 1.402 0.507
+       angles 0 -52.505 0
+       scale 0.863
+      }
+      {
+       coords -5.152 1.222 -0.547
+       angles 0 -44.584 0
+       scale 0.848
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 847.086 11.82 2862.657
+  Points {
+   ShapePoint "{68EF2591F0F4728E}" {
+    Position 1.561 -0.008 -0.19
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591F0F401CF}" {
+    Position -3.944 -0.045 -5.562
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591F4082E56}" {
+    Position -15.09 -0.272 -8.346
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591F4522418}" {
+    Position -23.579 -0.543 -9.015
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2591F4B3BE39}" {
+    Position -22.315 -0.008 -1.539
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25900C226CB3}" {
+    Position -17.519 -0.008 4.33
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25900E0BA470}" {
+    Position -21.184 -0.847 8.664
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259002D5E67D}" {
+    Position -23.953 -3.013 17.706
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25900365567A}" {
+    Position -21.12 -3.738 24.79
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259003D89D62}" {
+    Position -12.185 -3.447 24.818
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259004926A57}" {
+    Position -4.353 -3.518 26.992
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259007871426}" {
+    Position -2.271 -2.671 19.949
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590186CBCB1}" {
+    Position -11.53 -2.504 17.298
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259019B5663C}" {
+    Position -7.471 -0.008 6.799
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25901B83B959}" {
+    Position 0.408 -0.008 3.116
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 27819
+    {
+     Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      coords -5.11 -3.207 23.468
+      angles -1.038 64.711 0.898
+      scale 0.969
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -12.155 -3.196 22.203
+       angles -1.055 -85.17 12.295
+       scale 1.044
+      }
+      {
+       coords -12.776 -2.591 18.566
+       angles -1.697 71.579 -5.081
+       scale 0.927
+      }
+      {
+       coords -18.485 -3.331 21.583
+       angles -7.044 -30.494 2.075
+       scale 0.926
+      }
+      {
+       coords -15.234 -2.759 19.466
+       angles 9.363 128.106 -6.137
+       scale 1.121
+      }
+      {
+       coords -2.8 0.18 -3.542
+       angles 0 44.529 0
+       scale 0.825
+      }
+      {
+       coords -13.033 -0.008 -0.952
+       angles 0 -88.245 0
+       scale 0.957
+      }
+      {
+       coords -9.527 -0.016 -6.927
+       angles 1.741 13.435 0.416
+       scale 0.89
+      }
+      {
+       coords -12.677 -0.008 2.206
+       angles 0 -74.632 0
+       scale 0.714
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -16.436 -2.734 18.726
+       angles 0 167.997 0
+       scale 1.051
+      }
+      {
+       coords -8.67 0.005 -1.931
+       angles 0 -168.469 0
+       scale 0.946
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 765.005 7.469 2865.457
+  Points {
+   ShapePoint "{68EF25902233C261}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25902233D328}" {
+    Position -3.19 -0.033 -6.869
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259023CC6A5C}" {
+    Position -4.933 0.121 -14.974
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590243F90A1}" {
+    Position -9.976 0.133 -14.33
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259024B8F465}" {
+    Position -8.463 0.417 -7.599
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25902511F277}" {
+    Position -4.98 -0 -5.458
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590259724B7}" {
+    Position -2.38 -0.024 -0.118
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259027FBEAA8}" {
+    Position -5.056 -0.006 4.38
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 25671
+    {
+     Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      coords -7.45 0.344 -9.71
+      angles -2.276 66.436 -0.007
+      scale 0.715
+     }
+     Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      coords -4.178 -0.02 -5.006
+      angles 1.591 83.943 -1.968
+      scale 0.679
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -1.851 -0 1.563
+       angles 0 156.648 0
+       scale 0.8
+      }
+      {
+       coords -4.96 0.135 -6.989
+       angles 0 -13.459 0
+       scale 0.856
+      }
+      {
+       coords -4.865 -0.016 -9.214
+       angles 0 -155.505 0
+       scale 0.999
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 821.674 7.745 2893.47
+  Points {
+   ShapePoint "{68EF25905F6C992C}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25905F6CA757}" {
+    Position -3.329 -0.328 5.189
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259050ECCA65}" {
+    Position -8.041 0.036 4.406
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590514F5F5B}" {
+    Position -13.945 0.036 3.256
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25905276B8B3}" {
+    Position -17.988 0.036 7.354
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259053892A8B}" {
+    Position -19.259 0.036 7.945
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259053EAF883}" {
+    Position -19.085 0.036 6.019
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590547C75FE}" {
+    Position -17.464 0.036 1.051
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259054DA58D0}" {
+    Position -17.531 0.07 -4.697
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590556CB7FC}" {
+    Position -12.051 0.036 -1.486
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590564A9CEB}" {
+    Position -3.656 -0.026 -2.493
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 24893
+    {
+     $grp Tree : "{2A7C3319DE914965}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_3s.et" {
+      {
+       coords -2.222 -0.201 3.395
+       angles 0 -68.469 0
+       scale 0.866
+      }
+      {
+       coords -3.558 0.032 0.443
+       angles 0 158.999 0
+       scale 0.815
+      }
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -12.574 0.036 -0.797
+       angles 0 -160.372 0
+       scale 0.684
+      }
+      {
+       coords -15.163 0.036 -0.584
+       angles 0 92.925 0
+       scale 0.726
+      }
+      {
+       coords -13.396 0.036 3.081
+       angles 0 -2.681 0
+       scale 0.707
+      }
+     }
+     Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      coords -10.027 0.036 2.596
+      angles 0 113.459 0
+      scale 1.098
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 750.32 7.77 2810.61
+  Points {
+   ShapePoint "{68EF259073BA11AA}" {
+    Position 0 -0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259073BA1F0C}" {
+    Position 4.953 -0.293 1.439
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259074C5B18B}" {
+    Position 8.956 -0.081 -3.105
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25907589C360}" {
+    Position 16.065 0.104 -5.066
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259076100350}" {
+    Position 24.193 0.465 -6.174
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25908955735F}" {
+    Position 23.07 -0.715 -11.384
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25908A1EDD67}" {
+    Position 12.83 -0.325 -6.105
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25908AA37E76}" {
+    Position 7.294 0.26 -9.633
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25908E000945}" {
+    Position 5.394 -0.288 -2.617
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25908FF26928}" {
+    Position 0.223 0.054 -1.577
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 19769
+    {
+     Tree : "{2A7C3319DE914965}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_3s.et" {
+      coords 7.721 -0.144 -1.717
+      angles 0 62.327 0
+      scale 0.826
+     }
+     Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      coords 19.7 -0.458 -9.188
+      angles 10.96 -15.71 -6.686
+      scale 0.82
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords 12.687 -0.132 -4.757
+       angles 0 -8.064 0
+       scale 1.049
+      }
+      {
+       coords 8.186 0.008 -5.07
+       angles 0 168.327 0
+       scale 1.171
+      }
+      {
+       coords 8.441 0.194 -7.151
+       angles 0 -142.222 0
+       scale 0.854
+      }
+      {
+       coords 22.779 -0.223 -8.891
+       angles 0 -94.837 0
+       scale 0.977
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 807.18 11.437 2858.372
+  Points {
+   ShapePoint "{68EF2590A564F770}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590A5648264}" {
+    Position -2.796 -0.031 3.395
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590A6DD3171}" {
+    Position -6.881 -0.028 13.245
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590A756C64F}" {
+    Position -5.431 -1.035 19.731
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590B965D1CA}" {
+    Position 0.632 -3.121 25.809
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590BA6C1260}" {
+    Position 5.58 -2.908 23.654
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590BAD789AD}" {
+    Position 1.742 -1.57 16.553
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590BC2D809D}" {
+    Position 5.561 -0.406 11.404
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590BCA035BB}" {
+    Position 8.912 -0.406 5.463
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590BD4306DE}" {
+    Position 8.001 -0.406 -1.23
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 19535
+    {
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -4.58 -0.613 16.586
+       angles 8.86 -147.052 -0.605
+       scale 0.998
+      }
+      {
+       coords 0.013 -2.615 22.959
+       angles 0.904 109.921 -12.785
+       scale 1.048
+      }
+      {
+       coords 3.486 -0.536 11.857
+       angles -11.558 16.407 -10.573
+       scale 0.882
+      }
+      {
+       coords -0.9 -0.032 3.385
+       angles 2.53 -133.851 0.051
+       scale 0.917
+      }
+      {
+       coords -2.339 -0.026 5.601
+       angles 0.993 -146.325 -1.489
+       scale 0.739
+      }
+      {
+       coords 4.405 -0.866 5.65
+       angles 15.603 96.809 1.839
+       scale 0.772
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -5.994 -0.049 13.025
+       angles 0 -148.111 0
+       scale 1.111
+      }
+      {
+       coords 0.518 -0.014 0.379
+       angles 0 -172.37 0
+       scale 0.897
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 789.739 7.156 2791.429
+  Points {
+   ShapePoint "{68EF2590DB612059}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DB612F9D}" {
+    Position 2.378 0.299 2.985
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DC8CC371}" {
+    Position 6.282 0.992 2.412
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DCED9EE7}" {
+    Position 8.318 0.984 5.3
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DDF612FD}" {
+    Position 5.298 0.696 9.367
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DE76F260}" {
+    Position 3.061 0.842 6.231
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590DEEF66E9}" {
+    Position -2.004 0.528 5.275
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590D0A2FD90}" {
+    Position -3.624 1.374 7.789
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590D143014D}" {
+    Position -7.344 0.819 7.525
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590D1DA7360}" {
+    Position -4.861 0.186 4.027
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2590D33E3E3C}" {
+    Position -3.191 0 0.991
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 2481
+    {
+     Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      coords 0.316 0 1.18
+      angles 2.1 7.064 -2.295
+      scale 1.152
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords 2.814 0.755 5.554
+       angles 3.837 117.712 8.015
+       scale 0.896
+      }
+      {
+       coords 5.411 0.902 7.138
+       angles -3.428 16.57 -1.019
+       scale 0.842
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -1.97 0.522 5.254
+       angles 0 1.077 0
+       scale 0.904
+      }
+      {
+       coords -5.254 0.529 5.564
+       angles 0 32.004 0
+       scale 0.89
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 856.905 7.279 2815.761
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    m_iSeed 26424
+   }
+  }
+ }
+ {
+  coords 884.573 8.849 2859.691
+  Points {
+   ShapePoint "{68EF25931B709CDC}" {
+    Position -1.729 -0.238 5.692
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931B70ABF9}" {
+    Position -13.617 0.219 2.236
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931C715B8D}" {
+    Position -17.379 0.214 -8.219
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931DFD6632}" {
+    Position -28.326 -0.948 -39.169
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931E8B6549}" {
+    Position -20.195 -1.883 -44.623
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931EF34F2C}" {
+    Position -0.974 -2.278 -44.832
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931F78647B}" {
+    Position 2.214 -1.489 -37.251
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931FCF5235}" {
+    Position -4.24 -0.482 -31.756
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF2593105180D7}" {
+    Position -3.256 0.391 -20.998
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF259310B1C8AF}" {
+    Position -4.631 0.214 -12.097
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{68EF25931119EA03}" {
+    Position -0.569 0.151 -3.98
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{2DD3BAF3AC596F99}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Salix.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 32042
+    {
+     Tree : "{5D765B912A33A615}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_salix_fragilis_2s.et" {
+      coords -4.787 -1.221 -39.064
+      angles 1.503 142.233 -1.669
+      scale 1.169
+     }
+     $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
+      {
+       coords -15.352 -1.155 -38.625
+       angles 4.378 -35.244 -3.088
+       scale 1.095
+      }
+      {
+       coords -9.405 -1.226 -38.956
+       angles -4.808 132.29 5.265
+       scale 0.837
+      }
+      {
+       coords -16.525 -1.592 -42.373
+       angles 2.755 -82.11 -6.808
+       scale 1.164
+      }
+      {
+       coords -5.423 0.214 -7.206
+       angles 0 5.823 0
+       scale 0.764
+      }
+      {
+       coords -7.949 0.182 3.202
+       angles 0 50.231 0
+       scale 0.999
+      }
+      {
+       coords -10.74 0.214 -4.309
+       angles 0 19.315 0
+       scale 0.804
+      }
+      {
+       coords -4.706 0.139 1.827
+       angles -0.941 113.191 -2.349
+       scale 0.79
+      }
+      {
+       coords -8.907 0.214 -6.603
+       angles 0 -36.168 0
+       scale 0.76
+      }
+      {
+       coords -13.103 0.214 1.419
+       angles 0 0.989 0
+       scale 0.624
+      }
+      {
+       coords -11.82 0.214 -1.719
+       angles 0 -178.193 0
+       scale 0.609
+      }
+      {
+       coords -5.437 0.214 -9.016
+       angles 0 -147.606 0
+       scale 0.603
+      }
+     }
+     $grp Tree : "{9CC816FDA9E08938}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1.et" {
+      {
+       coords -12.64 -1.88 -43.704
+       angles 0 -134.883 0
+       scale 1.099
+      }
+      {
+       coords -6.653 0.214 -3.307
+       angles 0 77.917 0
+       scale 0.852
+      }
+      {
+       coords -8.854 0.214 0.233
+       angles 0 -87.124 0
+       scale 0.895
+      }
+     }
+    }
+   }
+  }
+ }
 }
 SCR_DestructibleBuildingEntity : "{0027D6C6A3BD5D77}Prefabs/Structures/Infrastructure/Naval/Lighthouse/Lighthouse_04/Lighthouse_04.et" {
  coords 778.842 0.185 2861.071
@@ -793,9 +2353,19 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{11433114A765C14F}PrefabLibrary/De
   angles 0 13.49 0
  }
 }
-StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_wave.et" {
- coords 916.834 2.499 2842.245
- angles -17.223 31.867 -3.083
+$grp StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_wave.et" {
+ {
+  coords 916.834 2.499 2842.245
+  angles -17.223 31.867 -3.083
+ }
+ {
+  coords 809.979 9.891 2866.032
+  angles -12.711 73.841 -2.157
+ }
+ {
+  coords 817.129 10.572 2860.908
+  angles -12.134 85.506 -2.536
+ }
 }
 GenericEntity : "{15CB11EFB66A02F6}PrefabLibrary/DefaultLibrary/Props/Naval/LifeBuoy_01_set.et" {
  coords 1612.937 1.353 2525.339
@@ -1183,6 +2753,21 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3B3F46AE50FE582D}PrefabLibrary/De
   coords 902.325 4.005 2857.375
   angles 3.025 51.213 8.581
   scale 0.879
+ }
+ {
+  coords 809.083 9.591 2849.099
+  angles 5.132 -16.83 3.435
+  scale 1.139
+ }
+ {
+  coords 846.97 9.833 2868.327
+  angles 3.026 10.053 5.383
+  scale 1.139
+ }
+ {
+  coords 822.624 10.068 2864.339
+  angles 5.964 -35.696 1.594
+  scale 1.139
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_03_V2.et" {
@@ -1705,7 +3290,7 @@ $grp GenericEntity : "{9C3486C0D8969D0A}PrefabLibrary/DefaultLibrary/Props/Indus
  }
  {
   coords 788.803 13.608 2859.219
-  angles 0 145.211 0
+  angles -0.699 145.211 0
  }
 }
 GenericEntity : "{A10A168FDA3FA657}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_stack.et" {
@@ -2054,8 +3639,8 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   angles -3.102 -118.454 2.447
  }
  {
-  coords 836.877 6.975 2892.502
-  angles -15.554 172.671 0.139
+  coords 836.935 7.127 2891.413
+  angles -15.27 160.777 1.02
  }
  {
   coords 903.688 5.035 2841.502
@@ -2143,9 +3728,53 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   angles -19.252 116.343 -0.738
  }
  {
-  coords 777.201 8.314 2806.536
-  angles -10.291 64.407 13.355
+  coords 776.746 8.076 2807.146
+  angles -13.784 69.36 3.935
   scale 0.9
+ }
+ {
+  coords 806.334 10.173 2868.22
+  angles -8.215 -100.023 0.399
+ }
+ {
+  coords 822.781 10.287 2868.087
+  angles -6.062 155.541 -3.834
+ }
+ {
+  coords 846.897 10.681 2870.241
+  angles -12.856 -162.341 0.713
+ }
+ {
+  coords 814.055 9.871 2848.819
+  angles -12.851 -59.512 0.143
+ }
+ {
+  coords 808.287 10.191 2863.657
+  angles -10.159 -131.695 1.791
+ }
+ {
+  coords 891.668 7.256 2859.091
+  angles -32.221 99.587 0.415
+ }
+ {
+  coords 884.512 8.381 2837.306
+  angles -18.928 -89.501 -1.822
+ }
+ {
+  coords 913.136 3.697 2813.981
+  angles -21.593 -160.068 -2.592
+ }
+ {
+  coords 830.832 7.133 2890.869
+  angles -14.344 -172.39 -1.497
+ }
+ {
+  coords 869.304 8.488 2867.516
+  angles -14.558 151.751 -2.815
+ }
+ {
+  coords 868.919 8.301 2874.396
+  angles -28.569 8.034 4.226
  }
 }
 $grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
