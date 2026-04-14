@@ -3802,6 +3802,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{AE8CA342C9C3EC27}PrefabLibrary/De
   coords 1076.447 -13.692 2639.104
   angles 0 -91.812 3.35
  }
+ {
+  coords 1231.38 0.761 2526.524
+  angles 0 -172.262 8.395
+ }
 }
 $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_straight.et" {
  {
@@ -4344,6 +4348,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{DEA30A575C1BCF46}PrefabLibrary/De
   angles 0 -147.591 0
   scale 0.853
  }
+ {
+  coords 1111.549 5.812 2600.164
+  angles 0 -173.798 0
+  scale 0.942
+ }
+ {
+  coords 1120.728 5.947 2597.211
+  angles 0 38.886 0
+  scale 0.942
+ }
 }
 $grp StaticModelEntity : "{E30CE01FF01AE490}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideSquareNarrow.et" {
  {
@@ -4474,6 +4488,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/De
   coords 1191.846 10.989 2563.486
   angles 0 36.551 0
   scale 1.092
+ }
+ {
+  coords 1134.133 8.505 2596.948
+  angles -0.735 -7.025 -13.736
+  scale 1.03
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_01/GraniteCliff_01_Fucus.et" {
