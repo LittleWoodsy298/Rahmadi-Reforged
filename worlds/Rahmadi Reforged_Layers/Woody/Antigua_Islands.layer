@@ -2955,6 +2955,46 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3B3F46AE50FE582D}PrefabLibrary/De
   angles -0.497 117.075 2.934
   scale 0.969
  }
+ {
+  coords 1365.798 0.848 2401.532
+  angles 2.641 44.926 1.372
+  scale 0.969
+ }
+ {
+  coords 1374.595 1.167 2400.304
+  angles 4.341 -12.861 0.551
+  scale 0.969
+ }
+ {
+  coords 1362.128 1.525 2400.725
+  angles -3.658 -166.758 -2.403
+  scale 0.969
+ }
+ {
+  coords 1348.418 2.113 2406.453
+  angles -11.236 -142.649 -0.781
+  scale 0.969
+ }
+ {
+  coords 1343.055 2.997 2412.875
+  angles -6.159 -89.465 -14.266
+  scale 0.969
+ }
+ {
+  coords 1327.212 4.272 2438.145
+  angles -11.256 -144.669 -0.387
+  scale 0.969
+ }
+ {
+  coords 1358.271 1.722 2405.302
+  angles -1.172 -47.691 -2.723
+  scale 0.969
+ }
+ {
+  coords 1074.906 3.187 2657.378
+  angles -6.522 -63.756 -2.705
+  scale 0.969
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_03_V2.et" {
  {
@@ -2991,6 +3031,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/Ca
   coords 1291.239 16.038 2496.062
   angles 0 32.891 0
   scale 1.085
+ }
+ {
+  coords 1283.087 16.801 2511.462
+  angles 0 6.965 0
+  scale 0.942
  }
 }
 SCR_DestructibleBuildingEntity : "{4B94AFADB16D066A}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LightBeacon_01/LightBeacon_01_V2_red.et" {
@@ -4513,7 +4558,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/De
   angles 86.078 140.167 -93.545
  }
  {
-  coords 1594.346 -5.472 2531.362
+  coords 1594.31 -6.854 2531.497
   angles 84.22 165.001 -148.318
  }
  {
@@ -4868,6 +4913,18 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/De
   coords 1054.031 -9.159 2637.694
   angles -14.975 77.024 -84.65
  }
+ {
+  coords 1196.819 -8.046 2515.067
+  angles -16.706 8.223 85.4
+ }
+ {
+  coords 1189.086 -6.818 2505.442
+  angles -55.197 -17.277 120.759
+ }
+ {
+  coords 1187.458 -7.167 2507.736
+  angles 69.445 -99.564 127.055
+ }
 }
 GenericEntity : "{EEB26CC2CCC336F8}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_Wood_Short_01.et" {
  coords 1610.292 0.478 2524.379
@@ -4903,6 +4960,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{F12D0A7F42FEE1E6}PrefabLibrary/Ca
   coords 783.713 6.755 2854.016
   angles 0 27.185 0
   scale 1.124
+ }
+ {
+  coords 1266.05 17.407 2525.132
+  angles 0 138.717 0
+  scale 0.829
+ }
+ {
+  coords 1268.832 17.407 2521.84
+  angles 0 -53.227 0
+  scale 0.829
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{F4DF7DEDAB805624}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
@@ -4965,5 +5032,15 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{FB885A32F4EE1261}PrefabLibrary/Ca
   coords 789.039 4.841 2877.702
   angles 0 -75.045 0
   scale 0.898
+ }
+ {
+  coords 1274.065 13.605 2516.434
+  angles 0 143.298 0
+  scale 1.186
+ }
+ {
+  coords 1270.931 13.605 2520.866
+  angles 0 -66.364 0
+  scale 1.186
  }
 }
