@@ -2404,6 +2404,10 @@ $grp StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/DefaultLibrary/Terrain
   coords 817.129 10.572 2860.908
   angles -12.134 85.506 -2.536
  }
+ {
+  coords 1113.421 0.15 2696.042
+  angles -6.461 159.613 -1.214
+ }
 }
 GenericEntity : "{15CB11EFB66A02F6}PrefabLibrary/DefaultLibrary/Props/Naval/LifeBuoy_01_set.et" {
  coords 1612.937 1.353 2525.339
@@ -3166,6 +3170,42 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{5319623605F39941}PrefabLibrary/De
   coords 1243.738 -12.804 2457.104
   angles 0.956 -57.01 81.586
  }
+ {
+  coords 1455.267 -9.16 2458.298
+  angles 66.663 124.957 -63.79
+ }
+ {
+  coords 1457.311 -9.64 2498.226
+  angles 71.276 49.369 53.611
+ }
+ {
+  coords 1482.865 -11.421 2495.884
+  angles 71.276 49.369 53.611
+ }
+ {
+  coords 1480.821 -10.941 2455.956
+  angles 66.663 124.957 -63.79
+ }
+ {
+  coords 1462.43 -23.508 2468.544
+  angles -8.194 -170.102 -10.655
+ }
+ {
+  coords 1465.715 -10.023 2505.339
+  angles 78.345 -82.869 57.31
+ }
+ {
+  coords 1456.289 -9.467 2442.765
+  angles 77.753 -98.293 40.8
+ }
+ {
+  coords 1470.785 -13.187 2393.331
+  angles 64.957 132.395 -56.443
+ }
+ {
+  coords 1447.793 -9.587 2435.753
+  angles 73.752 57.79 61.668
+ }
 }
 SCR_DestructibleBuildingEntity : "{55C22960844D8A15}PrefabLibrary/DefaultLibrary/Structures/Industrial/PortableCabin_E_02.et" {
  coords 791.343 -0.104 2855.573
@@ -3303,12 +3343,15 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{576B724EEC3AD703}PrefabLibrary/De
  {
   coords 1432.271 6.906 2465.836
   angles 0 10.677 0
-  scale 1
  }
  {
   coords 1417.975 6.346 2470.725
   angles 5.8 -171.133 0
-  scale 1
+ }
+ {
+  coords 1417.467 3.581 2455.491
+  angles -0.774 39.058 16.705
+  scale 1.039
  }
 }
 SCR_DestructibleBuildingEntity : "{5E41F4FD9FAE7C99}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteRetainingWall_01_4m.et" {
@@ -3348,6 +3391,42 @@ $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain
  {
   coords 1438.513 -0.2 2450.01
   angles -7.217 -89.278 0.01
+ }
+ {
+  coords 1066.903 0.323 2662.436
+  angles 0 64.963 0
+ }
+ {
+  coords 1069.519 0.323 2673.84
+  angles 0 140.772 0
+ }
+ {
+  coords 1085.512 0.418 2687.472
+  angles -2.715 -175.323 0.308
+ }
+ {
+  coords 1092.674 -0.053 2690.457
+  angles -2.889 130.587 2.559
+ }
+ {
+  coords 1104.687 -0.029 2693.689
+  angles -6.757 -160.96 -2.024
+ }
+ {
+  coords 1138.98 1.23 2682.639
+  angles -3.926 -170.177 1.299
+ }
+ {
+  coords 1152.955 0.269 2685.514
+  angles -4.821 161.803 3.729
+ }
+ {
+  coords 1163.72 0.216 2681.43
+  angles -6.259 -120.16 -3.933
+ }
+ {
+  coords 1170.421 0.856 2677.537
+  angles -2.817 173.855 0.015
  }
 }
 GenericEntity : "{630333773491A8F5}PrefabLibrary/DefaultLibrary/Props/Naval/LifeBuoy_01.et" {
@@ -3537,6 +3616,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{6A5F577699565E34}PrefabLibrary/Ca
   coords 1414.216 4.54 2444.914
   angles -27.125 137.428 -8.608
   scale 1.349
+ }
+ {
+  coords 1443.136 -0.883 2498.538
+  angles 5.793 -87.006 -4.668
+  scale 1.401
  }
 }
 GenericEntity : "{724FECB00EA5B033}PrefabLibrary/CainLibrary/Props/Naval/ShipWreckWooden_01_sunk.et" {
@@ -4421,6 +4505,34 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   coords 1433.281 0.784 2441.16
   angles -11.802 6.8 8.966
  }
+ {
+  coords 1072.108 0.16 2680.103
+  angles 0 99.573 0
+ }
+ {
+  coords 1075.416 0.139 2686.553
+  angles -1.667 134.34 -0.984
+ }
+ {
+  coords 1122.135 0.007 2696.15
+  angles -0.645 -162.199 -0.002
+ }
+ {
+  coords 1164.2 0.345 2681.246
+  angles -7.444 -138.114 10.381
+ }
+ {
+  coords 1149.256 0.801 2679.745
+  angles -0.699 -128.482 -5.254
+ }
+ {
+  coords 1180.317 0.644 2679.709
+  angles -4.905 -170.607 -2.003
+ }
+ {
+  coords 1184.56 -0.15 2671.892
+  angles 3.119 -66.87 -4.284
+ }
 }
 $grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
  {
@@ -4850,6 +4962,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/De
   coords 1420.591 3.804 2499.809
   angles 0 -179.171 0
   scale 1.032
+ }
+ {
+  coords 1432.881 -0.505 2500.834
+  angles -1.11 -153.651 -7.442
+  scale 1.094
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_01/GraniteCliff_01_Fucus.et" {
