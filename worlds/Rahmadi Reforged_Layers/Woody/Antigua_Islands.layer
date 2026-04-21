@@ -3457,12 +3457,12 @@ $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain
   angles -6.602 -131.064 1.538
  }
  {
-  coords 1411.562 0.114 2625.174
-  angles -4.545 -90.722 3.245
+  coords 1407.46 0.657 2622.302
+  angles -7.987 -90.183 -1.307
  }
  {
-  coords 1404.103 -0.345 2634.229
-  angles -5.525 -168.805 0.293
+  coords 1400.033 0.32 2631.4
+  angles -7.493 -168.96 2.762
  }
  {
   coords 1213.856 0.085 2671.37
@@ -3477,12 +3477,20 @@ $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain
   angles -9.973 -140.519 0
  }
  {
-  coords 1354.89 0.088 2672.473
-  angles -5.56 -130.699 -0.313
+  coords 1354.34 0.128 2672.192
+  angles -3.796 -137.975 -0.65
  }
  {
-  coords 1342.806 -0.411 2676.85
-  angles -3.099 169.804 4.629
+  coords 1341.789 -0.111 2674.991
+  angles -2.492 162.583 2.937
+ }
+ {
+  coords 1278.132 1.284 2668.5
+  angles -0.19 156.834 -1.663
+ }
+ {
+  coords 1321.81 0.147 2672.76
+  angles -7.725 162.413 -0.289
  }
 }
 GenericEntity : "{630333773491A8F5}PrefabLibrary/DefaultLibrary/Props/Naval/LifeBuoy_01.et" {
@@ -4660,6 +4668,30 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
  {
   coords 1361.62 0.136 2669.449
   angles -8.717 -157.402 1.32
+ }
+ {
+  coords 1264.516 0.836 2667.97
+  angles -6.76 176.651 4.062
+ }
+ {
+  coords 1257.578 0.373 2668.5
+  angles -6.188 -168.509 3.746
+ }
+ {
+  coords 1287.874 0.734 2673.177
+  angles -6.76 176.651 -1.98
+ }
+ {
+  coords 1294.199 0.416 2674.338
+  angles -7.042 159.323 -2.372
+ }
+ {
+  coords 1307.632 -0.019 2675.204
+  angles -5.15 -173.07 -1.155
+ }
+ {
+  coords 1336.358 0.101 2675.147
+  angles -7.559 -179.927 -0.521
  }
 }
 $grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
