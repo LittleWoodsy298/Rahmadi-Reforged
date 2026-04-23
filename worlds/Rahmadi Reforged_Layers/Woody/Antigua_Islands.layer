@@ -3477,12 +3477,12 @@ $grp StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/DefaultLibrary/Terrain
   angles -9.973 -140.519 0
  }
  {
-  coords 1354.34 0.128 2672.192
-  angles -3.796 -137.975 -0.65
+  coords 1353.549 0.537 2670.512
+  angles -5.734 -137.942 -2.205
  }
  {
-  coords 1341.789 -0.111 2674.991
-  angles -2.492 162.583 2.937
+  coords 1340.994 0.339 2673.3
+  angles -4.81 162.43 3.823
  }
  {
   coords 1278.132 1.284 2668.5
@@ -5127,6 +5127,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/De
   coords 1432.881 -0.505 2500.834
   angles -1.11 -153.651 -7.442
   scale 1.094
+ }
+ {
+  coords 1165.963 6.44 2562.525
+  angles 1.892 26.003 -8.534
+  scale 0.944
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_01/GraniteCliff_01_Fucus.et" {
