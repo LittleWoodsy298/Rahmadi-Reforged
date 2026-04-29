@@ -4514,8 +4514,8 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
   angles -6.062 155.541 -3.834
  }
  {
-  coords 846.897 10.681 2870.241
-  angles -12.856 -162.341 0.713
+  coords 844.203 10.361 2853.765
+  angles -7.629 -17 0.237
  }
  {
   coords 814.055 9.871 2848.819
@@ -4692,6 +4692,10 @@ $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain
  {
   coords 1336.358 0.101 2675.147
   angles -7.559 -179.927 -0.521
+ }
+ {
+  coords 836.657 10.413 2851.643
+  angles -7.54 -6.882 -2.948
  }
 }
 $grp StaticModelEntity : "{C24A253665F2D986}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideShort.et" {
