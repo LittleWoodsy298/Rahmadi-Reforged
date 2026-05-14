@@ -2690,6 +2690,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{2744DB5B79E2F462}PrefabLibrary/De
   coords 1444.485 -11.909 2480.693
   angles 0 98.767 0
  }
+ {
+  coords 1416.932 -11.313 2538.608
+  angles -0.454 113.183 -3.943
+ }
 }
 $grp GenericEntity : "{28C8DBE11DDB0C78}PrefabLibrary/DefaultLibrary/Props/Industrial/ConcretePanel_01_D.et" {
  {
@@ -3104,6 +3108,21 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3B3F46AE50FE582D}PrefabLibrary/De
   angles 0 -83.854 0
   scale 1.057
  }
+ {
+  coords 1154.418 5.847 2661.392
+  angles -4.227 46.884 -6.143
+  scale 0.861
+ }
+ {
+  coords 1094.888 1.985 2678.433
+  angles 0.965 -38.863 4.891
+  scale 0.945
+ }
+ {
+  coords 1411.452 8.576 2533.238
+  angles 0 -66.115 0
+  scale 1.042
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3C44CAAF01B8516D}PrefabLibrary/CainLibrary/Rocks/Granite/GraniteRock_03_V2.et" {
  {
@@ -3364,6 +3383,31 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{576B724EEC3AD703}PrefabLibrary/De
   coords 1417.467 3.581 2455.491
   angles -0.774 39.058 16.705
   scale 1.039
+ }
+ {
+  coords 1149.211 3.503 2666.754
+  angles 0 7.324 0
+  scale 0.991
+ }
+ {
+  coords 1111.013 4.122 2668.259
+  angles 0 -38.29 0.162
+  scale 0.96
+ }
+ {
+  coords 1407.448 3.339 2562.537
+  angles 0 58.11 0
+  scale 1.043
+ }
+ {
+  coords 1396.569 7.404 2570.63
+  angles 0 124.654 0
+  scale 0.915
+ }
+ {
+  coords 1410.391 3.999 2512.83
+  angles -6.244 -98.13 6.662
+  scale 1.129
  }
 }
 SCR_DestructibleBuildingEntity : "{5E41F4FD9FAE7C99}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteRetainingWall_01_4m.et" {
@@ -3685,6 +3729,11 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{6A5F577699565E34}PrefabLibrary/Ca
   coords 1443.136 -0.883 2498.538
   angles 5.793 -87.006 -4.668
   scale 1.401
+ }
+ {
+  coords 1141.754 1.896 2674.103
+  angles 1.033 -87.492 17.403
+  scale 1.376
  }
 }
 GenericEntity : "{724FECB00EA5B033}PrefabLibrary/CainLibrary/Props/Naval/ShipWreckWooden_01_sunk.et" {
@@ -4208,6 +4257,42 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{AE8CA342C9C3EC27}PrefabLibrary/De
  {
   coords 1430.831 0.633 2460.215
   angles 0.128 -154.86 85.986
+ }
+ {
+  coords 1145.263 -12.664 2663.351
+  angles 0 -10.068 0
+ }
+ {
+  coords 1108.398 -12.267 2661.365
+  angles 0 133.896 -2.426
+ }
+ {
+  coords 1107.326 -11.149 2647.584
+  angles 0.936 -113.93 -3.242
+ }
+ {
+  coords 1410.844 -11.792 2513.311
+  angles 0 70.31 0
+ }
+ {
+  coords 1418.046 -11.189 2551.554
+  angles 0 65.619 0
+ }
+ {
+  coords 1403.682 -13.3 2571.385
+  angles 0 84.823 0
+ }
+ {
+  coords 1385.939 -12.815 2577.055
+  angles 0 -29.35 0
+ }
+ {
+  coords 1379.039 -13.603 2574.025
+  angles 0 175.242 -3.352
+ }
+ {
+  coords 1411.545 -11.411 2555.316
+  angles 0 38.17 0
  }
 }
 $grp StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/DefaultLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_straight.et" {
@@ -4833,6 +4918,30 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/De
   coords 1434.376 -9.836 2498.126
   angles 0 25.992 0
  }
+ {
+  coords 1133.61 -11.727 2665.884
+  angles 0 24.765 0
+ }
+ {
+  coords 1120.477 7.707 2666.024
+  angles 0 -10.906 172.267
+ }
+ {
+  coords 1153.463 -11.637 2656.587
+  angles 0 39.374 0
+ }
+ {
+  coords 1409.436 -10.838 2525.409
+  angles 0 117.907 0
+ }
+ {
+  coords 1409.028 -11.813 2558.589
+  angles 0 36.25 0
+ }
+ {
+  coords 1395.616 -12.653 2576.189
+  angles 0 18.412 0
+ }
 }
 $grp SCR_DestructibleBuildingEntity : "{C9E08FDCA029D5B7}PrefabLibrary/DefaultLibrary/Infrastructure/Bridges/ConcreteBridge_01_Pillar_narrow.et" {
  {
@@ -5136,6 +5245,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/De
   coords 1165.963 6.44 2562.525
   angles 1.892 26.003 -8.534
   scale 0.944
+ }
+ {
+  coords 1122.207 0.937 2676.961
+  angles -5.894 -145.328 2.93
+  scale 0.869
+ }
+ {
+  coords 1399.531 6.01 2564.996
+  angles -6.961 -111.851 0.243
+  scale 1.059
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{EDE9035646BD774A}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_01/GraniteCliff_01_Fucus.et" {
